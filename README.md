@@ -66,9 +66,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nino-chavez&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nino-chavez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nino-chavez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" width="48%" />
-
 </div>
 
 ---
