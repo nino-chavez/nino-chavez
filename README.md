@@ -1,13 +1,18 @@
-# Nino Chavez
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Nino Chavez — Open Practice. I build the system, run the operation, and keep the evidence. Chicago, building since 1999.">
+</p>
 
-Agents are how the work gets done — not a layer bolted on top. Spec, code, docs and agents
-are one substrate.
+I design products, build the software behind them, and run them in the real world.
 
-The tools below are the ones that survived daily use. The
-[demo series](https://demos.ninochavez.co) shows them in real sessions — verbatim messages,
-production systems, failures left in.
+Agents are how the work gets done — not a layer bolted on top. Spec, code, docs and
+agents are one substrate. The tools below are the ones that survived daily use.
 
-## Install
+**[Work](https://ninochavez.co/work)** · products, tools, methods and operations, by domain
+&nbsp;&nbsp;**[Sessions](https://ninochavez.co/demos)** · complete agent sessions, failures left in
+&nbsp;&nbsp;**[Learn](https://ninochavez.co/learn)** · self-directed routes through the work
+&nbsp;&nbsp;**[Writing](https://ninochavez.co/blog)** · Signal Dispatch
+
+<img src="./assets/section-install.svg" width="100%" alt="Install — tools that survived daily use">
 
 **[blueprint](https://github.com/nino-chavez/blueprint)** — run a product initiative end to
 end with an agent: research, prototype, strategy docs, fact-check, deploy.
@@ -49,21 +54,19 @@ git clone https://github.com/nino-chavez/ai-champions-kit.git
 ./ai-champions-kit/install.sh --tier universal
 ```
 
-## Local-first, on a Mac
+<img src="./assets/section-local.svg" width="100%" alt="Local-first — nothing leaves the machine">
 
-Nothing here sends audio or screen anywhere. Apple Silicon.
+No audio or screen capture goes anywhere. Apple Silicon.
 
 - **[local-dictation](https://github.com/nino-chavez/local-dictation)** — tap a hotkey,
   speak, tap again. Cleaned-up text lands in whatever field has focus. Say "take a note"
   first and it goes to Notes instead, without stealing focus.
-- **[local-meeting-notes](https://github.com/nino-chavez/local-meeting-notes)** — a
+- **[meeting-notes-local](https://github.com/nino-chavez/meeting-notes-local)** — a
   notetaker that captures the call from your own machine. No bot joins the meeting.
 - **[cortex](https://github.com/nino-chavez/cortex)** — continuous screen and audio capture
   with on-device search and chat.
 
-## Running the practice
-
-Instrumentation, each piece built after something went wrong.
+<img src="./assets/section-practice.svg" width="100%" alt="Operations — instrumentation, each piece built after something went wrong">
 
 - **[repo-health-check](https://github.com/nino-chavez/repo-health-check)** — audits repo
   settings for drift `grep` can't see. Written after finding 347 dead deployment records and
@@ -77,26 +80,27 @@ Instrumentation, each piece built after something went wrong.
 - **[claude-orchestrator](https://github.com/nino-chavez/claude-orchestrator)** — async task
   queue for the Claude API, with rate-limit backoff.
 
-## The method
+<img src="./assets/section-method.svg" width="100%" alt="Method — how the work gets done, published as it happened">
 
-- **[ways of working](https://demos.ninochavez.co)** — eleven real agent sessions published
-  as teaching demos, with seven technique companions.
+- **[Ways of working](https://ninochavez.co/demos)** — complete agent sessions published as
+  teaching demos: what happened, what failed, what changed, and which techniques held up.
+- **[work-library-pattern](https://github.com/nino-chavez/work-library-pattern)** — a reading
+  portal that holds no documents. Every page comes from another repository, pinned to an
+  exact commit; merging a pull request is what publishes.
 - **[specchain](https://github.com/nino-chavez/specchain)** — spec-driven workflow: idea →
   spec → tasks → implementation, with deterministic gates between agentic stages.
 - **[concepts](https://github.com/nino-chavez/concepts)** — the ideas behind work that has no
   public repo yet.
 
-## Shipped
+<img src="./assets/section-shipped.svg" width="100%" alt="Shipped — running in the real world">
 
-- **[Rally HQ](https://rallyhq.app)** — tournament management. Brackets, registration,
-  payments. Open beta.
+- **[Rally HQ](https://rallyhq.app)** — tournament management. Registration, brackets,
+  schedules, and live scoring on one public event page. Open beta.
 - **[aisles](https://github.com/nino-chavez/aisles)** — AI-native headless storefront on
   BigCommerce, persona-adaptive layouts.
 - **[Flickday Media](https://flickdaymedia.com)** — grassroots sports media out of Chicago.
 
-## Writing
+---
 
-[Signal Dispatch](https://ninochavez.co/blog) — essays, whitepapers and decks on building
-this way.
-
-[ninochavez.co](https://ninochavez.co)
+[ninochavez.co](https://ninochavez.co) · [Signal Dispatch](https://ninochavez.co/blog) ·
+[Photography](https://ninochavez.co/photography)
