@@ -96,7 +96,7 @@ No audio or screen capture goes anywhere. Apple Silicon.
 
 - **[Rally HQ](https://rallyhq.app)** — tournament management. Registration, brackets,
   schedules, and live scoring on one public event page. Open beta.
-- **[aisles](https://github.com/nino-chavez/aisles)** — AI-native headless storefront on
+- **[aisles](https://github.com/nino-chavez/aisles-prototype)** — AI-native headless storefront on
   BigCommerce, persona-adaptive layouts.
 - **[Flickday Media](https://flickdaymedia.com)** — grassroots sports media out of Chicago.
 
